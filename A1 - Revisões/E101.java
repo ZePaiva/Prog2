@@ -8,7 +8,7 @@ public class E101{
 		System.out.print("Operação: ");
 		String sl = k.nextLine();
 
-		String[] lls = new String[3];
+		String[] lls;
 		lls = sl.split(" ");
 		
 		char oper = lls[1].charAt(0);
