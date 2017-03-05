@@ -47,6 +47,7 @@ public class Caixa{
 	}
 
 	//metodo para retirar as moedas
+	//metodo a corrigir
 	public long[] retiraDinheiro(long valorMin){
 
 		int moedasAretirar = 0;
