@@ -1,0 +1,545 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"el",
+				"else"
+			],
+			[
+				"fac",
+				"fact"
+			],
+			[
+				"fa",
+				"fact"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"num",
+				"numero"
+			],
+			[
+				"de",
+				"denumero"
+			],
+			[
+				"c",
+				"cherrypy\tmodule"
+			],
+			[
+				"val",
+				"valeQuanto"
+			],
+			[
+				"valo",
+				"valorMin"
+			],
+			[
+				"va",
+				"valorMin"
+			],
+			[
+				"att",
+				"attempt"
+			],
+			[
+				"nu",
+				"numAttempts"
+			],
+			[
+				"ma",
+				"max"
+			],
+			[
+				"roo",
+				"roomType"
+			],
+			[
+				"b",
+				"bottomLeft"
+			],
+			[
+				"sa",
+				"salas"
+			],
+			[
+				"ex",
+				"extras"
+			],
+			[
+				"con",
+				"contagem"
+			],
+			[
+				"co",
+				"contagem2"
+			],
+			[
+				"ro",
+				"roomType"
+			],
+			[
+				"Roo",
+				"RoomTypeCount"
+			],
+			[
+				"are",
+				"areaTotal"
+			],
+			[
+				"di",
+				"divisions"
+			],
+			[
+				"ca",
+				"cantoInferiorEsquerdo"
+			],
+			[
+				"can",
+				"cantoSuperiorDireito"
+			],
+			[
+				"mo",
+				"moeda"
+			],
+			[
+				"arra",
+				"arraycopy"
+			],
+			[
+				"bub",
+				"bubbleSort"
+			],
+			[
+				"moe",
+				"moedas"
+			],
+			[
+				"moedas",
+				"moeads"
+			],
+			[
+				"in",
+				"inicio"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"com",
+				"compromissiva"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"e",
+				"else"
+			],
+			[
+				"s",
+				"sw\tswitch"
+			],
+			[
+				"te",
+				"tel"
+			],
+			[
+				"tel",
+				"telefone"
+			],
+			[
+				"ne",
+				"nextInt"
+			],
+			[
+				"srt",
+				"strigs\tstatement"
+			],
+			[
+				"rand",
+				"rand_num\tstatement"
+			],
+			[
+				"cha",
+				"charAt"
+			],
+			[
+				"p",
+				"p\tprint"
+			],
+			[
+				"input",
+				"raw_input\traw_input"
+			],
+			[
+				"pu",
+				"public"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 197.0,
+		"last_filter": "pyth",
+		"selected_items":
+		[
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"ja",
+				"Set Syntax: Java"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/zero/Documents/UniAv/PII/A4 - Programação por Contrato/execs/number2/Fraction.java",
+		"/home/zero/Documents/UniAv/PII/A4 - Programação por Contrato/execs/number2/Fraction.",
+		"/home/zero/Documents/UniAv/PII/A4 - Programação por Contrato/execs/p46.java",
+		"/home/zero/Documents/UniAv/PII/A4 - Programação por Contrato/execs/p45.java",
+		"/home/zero/Documents/UniAv/PII/A3 - Programção Modular/execs/E305.java",
+		"/home/zero/Documents/UniAv/PII/A3 - Programção Modular/execs/e5/Caixa.java",
+		"/home/zero/Documents/UniAv/PII/A3 - Programção Modular/execs/p34.java",
+		"/home/zero/Documents/UniAv/PII/A4 - Programação por Contrato/execs/number/Fraction.java",
+		"/home/zero/Documents/RESTwork-2016/olaM.py",
+		"/home/zero/Documents/RESTwork-2016/io.py",
+		"/home/zero/Documents/UniAv/PII/A4 - Programação por Contrato/number/Fraction.java",
+		"/home/zero/Documents/UniAv/PII/A4 - Programação por Contrato/execs/E404.java",
+		"/home/zero/Documents/UniAv/PII/A4 - Programação por Contrato/execs/e4/Caixa.java",
+		"/home/zero/Documents/UniAv/PII/A4 - Programação por Contrato/execs/e3/Data.java",
+		"/home/zero/Documents/UniAv/PII/A4 - Programação por Contrato/execs/p43.java",
+		"/home/zero/Documents/UniAv/PII/A4 - Programação por Contrato/execs/e3/Nota.java",
+		"/home/zero/Documents/UniAv/PII/A2 - Classes e Objetos/execs/Data.java",
+		"/home/zero/Documents/UniAv/PII/A4 - Programação por Contrato/execs/GuessGame.java",
+		"/home/zero/Documents/UniAv/PII/A4 - Programação por Contrato/execs/p42.java",
+		"/home/zero/Documents/UniAv/PII/A4 - Programação por Contrato/execs/e1/GuessGame.java",
+		"/home/zero/Documents/UniAv/PII/A4 - Programação por Contrato/GuessGame.java",
+		"/home/zero/Documents/UniAv/PII/A4 - Programação por Contrato/GuessGame.ja",
+		"/home/zero/Documents/UniAv/PII/A3 - Programção Modular/execs/E306.java",
+		"/home/zero/Documents/UniAv/PII/A3 - Programção Modular/execs/e6/Data.java",
+		"/home/zero/Documents/ProgrammingExercises-Java-/P2/Aula 3/p36 by Rafael Ferreira/Data.java",
+		"/home/zero/Documents/ProgrammingExercises-Java-/P2/Aula 3/p36 by Rafael Ferreira/p36.java",
+		"/home/zero/Documents/ProgrammingExercises-Java-/P2/Aula 3/Data2.java",
+		"/home/zero/Documents/ProgrammingExercises-Java-/P2/Aula 3/Data.java",
+		"/home/zero/Documents/ProgrammingExercises-Java-/P2/Aula 3/A3Ex6.java",
+		"/home/zero/Documents/Prog2/A3 - Programação Modular/execs/e5/Caixa.java",
+		"/home/zero/Documents/ProgrammingExercises-Java-/P2/Aula 3/Caixa.java",
+		"/home/zero/Documents/ProgrammingExercises-Java-/P2/Aula 3/A3Ex5.java",
+		"/home/zero/Documents/ProgrammingExercises-Java-/P2/Aula 3/C",
+		"/home/zero/Documents/UniAv/PII/A3 - Programção Modular/execs/e7/Point.java",
+		"/home/zero/Documents/UniAv/PII/A3 - Programção Modular/execs/e7/Room.java",
+		"/home/zero/Documents/UniAv/PII/A3 - Programção Modular/execs/e7/House.java",
+		"/home/zero/Documents/UniAv/PII/A3 - Programção Modular/execs/p37.java",
+		"/home/zero/Documents/UniAv/PII/A3 - Programção Modular/execs/e7/RoomTypeCount.java",
+		"/home/zero/Documents/UniAv/PII/A3 - Programção Modular/execs/e7/p37.java",
+		"/home/zero/Documents/UniAv/PII/A3 - Programção Modular/execs/e6/E205.java",
+		"/home/zero/Documents/UniAv/PII/A3 - Programção Modular/execs/e3/Nota.java",
+		"/home/zero/Documents/UniAv/PII/A3 - Programção Modular/execs/e1/Data.java",
+		"/home/zero/Documents/UniAv/PII/A3 - Programção Modular/execs/p33.java",
+		"/home/zero/Documents/UniAv/PII/A3 - Programção Modular/execs/p32.java",
+		"/home/zero/Documents/UniAv/PII/A3 - Programção Modular/execs/p31.java",
+		"/home/zero/Documents/UniAv/PII/A3 - Programção Modular/execs/e4/Agenda.java",
+		"/home/zero/Documents/UniAv/PII/A3 - Programção Modular/execs/e5/E305.java",
+		"/home/zero/Documents/UniAv/PII/A3 - Programção Modular/execs/e4/p34.java",
+		"/home/zero/Documents/UniAv/PII/A3 - Programção Modular/execs/e3/p33.java",
+		"/home/zero/Documents/UniAv/PII/A3 - Programção Modular/execs/e2/p32.java",
+		"/home/zero/Documents/UniAv/PII/A3 - Programção Modular/execs/e3/Tarefa.java",
+		"/home/zero/Documents/UniAv/PII/A3 - Programção Modular/execs/e1/p31.java",
+		"/home/zero/Documents/UniAv/PII/A3 - Programção Modular/execs/Caixa.java",
+		"/home/zero/Documents/UniAv/PII/A3 - Programção Modular/execs/Agenda.java",
+		"/home/zero/Documents/UniAv/PII/A3 - Programção Modular/execs/Tarefa.java",
+		"/home/zero/Documents/UniAv/PII/A3 - Programção Modular/execs/Data.java",
+		"/home/zero/Documents/UniAv/PII/A2 - Classes e Objetos/execs/E205.java",
+		"/home/zero/Documents/UniAv/PII/A2 - Classes e Objetos/execs/Contacto.java",
+		"/home/zero/Documents/UniAv/PII/A2 - Classes e Objetos/execs/E202.java",
+		"/home/zero/Documents/UniAv/PII/A2 - Classes e Objetos/execs/Complexo.java",
+		"/home/zero/Documents/UniAv/PII/A2 - Classes e Objetos/execs/E201.java",
+		"/home/zero/Documents/UniAv/PII/A2 - Classes e Objetos/execs/pt/ua/prog2/Contacto.java",
+		"/home/zero/Documents/UniAv/PII/A2 - Classes e Objetos/p21.java",
+		"/home/zero/Documents/UniAv/PII/A2 - Classes e Objetos/Complexo.java",
+		"/home/zero/Documents/funny_progs/sidoes/JavEMerd.java",
+		"/home/zero/Documents/funny_progs/sidoes/javEMerd.java",
+		"/home/zero/Documents/funny_progs/sidoes/insultor/the_Insultor.py",
+		"/home/zero/Documents/UniAv/LabI/A12/e28.py",
+		"/home/zero/Documents/funny_progs/theHarvester/theHarvester.py",
+		"/home/zero/Documents/UniAv/LabI/A12/e27.py",
+		"/home/zero/Documents/UniAv/LabI/A12/e26.py",
+		"/home/zero/Documents/UniAv/LabI/A12/e24.py",
+		"/home/zero/Documents/UniAv/LabI/A12/e22.py",
+		"/home/zero/Documents/UniAv/LabI/A12/e21.py",
+		"/home/zero/Documents/UniAv/LabI/A12/e20.py",
+		"/home/zero/Documents/UniAv/LabI/A12/e1.py",
+		"/home/zero/Documents/UniAv/LabI/A12/e19.py",
+		"/home/zero/Documents/UniAv/LabI/A12/e18.py",
+		"/home/zero/Documents/UniAv/LabI/A12/e17.py",
+		"/home/zero/Documents/UniAv/LabI/A12/e16.py",
+		"/home/zero/Documents/UniAv/LabI/A12/e15.py",
+		"/home/zero/Documents/UniAv/LabI/A12/e14.py",
+		"/home/zero/Documents/UniAv/LabI/A12/e13.py",
+		"/home/zero/Documents/UniAv/LabI/A12/e12.py",
+		"/home/zero/Documents/UniAv/LabI/A12/e11.py",
+		"/home/zero/Documents/UniAv/LabI/A12/e10.py",
+		"/home/zero/Documents/UniAv/LabI/A12/e2.py",
+		"/home/zero/Documents/UniAv/LabI/A12/e3v2.py",
+		"/home/zero/Documents/UniAv/LabI/A12/e3v3.py",
+		"/home/zero/Documents/UniAv/LabI/A12/e4.py",
+		"/home/zero/Documents/UniAv/LabI/A12/e5.py",
+		"/home/zero/Documents/UniAv/LabI/A12/e7.py",
+		"/home/zero/Documents/UniAv/LabI/A12/e8.py",
+		"/home/zero/Documents/UniAv/PII/A1 - Revisões/execs/E101.java",
+		"/home/zero/Documents/UniAv/PII/A1 - Revisões/execs/E102.java",
+		"/home/zero/Documents/UniAv/PII/A1 - Revisões/execs/E103.java",
+		"/home/zero/Documents/UniAv/PII/A1 - Revisões/execs/E104.java",
+		"/home/zero/Documents/UniAv/PII/A1 - Revisões/execs/E105.java",
+		"/home/zero/Documents/UniAv/PII/A1 - Revisões/execs/E106.java",
+		"/home/zero/Documents/UniAv/PII/A1 - Revisões/execs/E107.java",
+		"/home/zero/Documents/UniAv/PII/Trabalho - Autónomo/E01/TestHouse.java",
+		"/home/zero/Documents/UniAv/PI/A9-Ficheiros/E906.java",
+		"/home/zero/Documents/UniAv/PI/A3-Ciclos/c-while/E304.java",
+		"/home/zero/Documents/UniAv/PII/A1 - Revisões/p13.java",
+		"/home/zero/Documents/UniAv/PII/A1 - Revisões/p12.java",
+		"/home/zero/Documents/UniAv/PII/A1/execs/E101.java",
+		"/home/zero/Documents/UniAv/PII/A2 - Classes e Objetos/aula02/p21.java",
+		"/home/zero/Documents/UniAv/PII/A2 - Classes e Objetos/aula02/E205.java",
+		"/home/zero/Documents/UniAv/PII/A2 - Classes e Objetos/aula02/Contacto.java",
+		"/home/zero/Documents/UniAv/PII/A2 - Classes e Objetos/aula02/p22.java",
+		"/home/zero/Documents/UniAv/PII/A2 - Classes e Objetos/aula02/Complexo.java",
+		"/home/zero/Documents/UniAv/PII/A2 - Classes e Objetos/aula02/Data.java",
+		"/home/zero/Documents/ProgrammingExercises-Java-/P2/Aula 2/p22.java",
+		"/home/zero/Documents/.python-exs/PI-python/A1-Introdução/e6.py",
+		"/home/zero/Documents/.python-exs/PI-python/A1-Introdução/e5.py",
+		"/home/zero/Documents/.python-exs/PI-python/A1-Introdução/e4.py",
+		"/home/zero/Documents/.python-exs/PI-python/A1-Introdução/e3.py",
+		"/home/zero/Documents/.python-exs/PI-python/A1-Introdução/e2.py",
+		"/home/zero/Documents/.python-exs/PI-python/A1-Introdução/e1.py",
+		"/home/zero/Documents/UniAv/PII/A2/p22.java",
+		"/home/zero/Documents/UniAv/PII/A2/Complexo.java",
+		"/home/zero/Documents/UniAv/PII/A2/Contacto.java",
+		"/home/zero/Documents/UniAv/PII/A2/E201.java",
+		"/home/zero/Documents/UniAv/PII/A2/p21.java",
+		"/home/zero/Documents/UniAv/PII/A2/aula02/p22.java",
+		"/home/zero/Documents/UniAv/PII/A2/aula02/p21.java",
+		"/home/zero/Documents/UniAv/PII/A2/aula02/Complexo.java",
+		"/home/zero/Documents/UniAv/PII/A1/E107.java"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"print",
+			"var3",
+			"var4",
+			"var1",
+			"var5",
+			"var3",
+			"var0",
+			"static",
+			"Notas",
+			"Tarefa",
+			"secretNumber",
+			"secretNimber",
+			"getGNumber",
+			"gnumber",
+			"chooser",
+			"opcao",
+			"kanner",
+			"sc",
+			"static",
+			"package e7;\n\nimport static java.lang.System.*;\n\npublic class House{\n\n\tprivate static String tipo;\n\tprivate static Room[] divisions;\n\tprivate static int extras;\n\tprivate static int salas = 0;\n\n\tHouse(String type){\n\t\tif (type.toLowerCase() != \"house\" && type.toLowerCase() !=\"apartment\") {\n\t\t\ttipo = \"indefinido\";\n\t\t} else {\n\t\t\ttipo = type;\n\t\t}\n\n\t\tdivisions = new Room[8];\n\t\textras = 4;\n\t}\n\n\tHouse(String type, int divs, int extraDivs){\n\t\tif (type.toLowerCase() != \"house\" && type.toLowerCase() !=\"apartment\") {\n\t\t\ttipo = \"indefinido\";\n\t\t} else {\n\t\t\ttipo = type;\n\t\t}\n\n\t\tdivisions = new Room[divs];\n\t\textras = extraDivs;\t\t\n\t}\n\n\tpublic static void addRoom(Room sala){\n\n\t\tif (divisions[divisions.length-1].roomType() != null) {\n\t\t\tRoom[] divs = new Room[salas];\n\t\t\tarraycopy(divisions, 0, divs, 0, divisions.length-1);\n\t\t\tdivisions = divs;\n\t\t}\n\n\t\tdivisions[salas] = new Room(sala.roomType(), sala.topRight(), sala.bottomLeft());\n\t\tsalas++;\n\t}\n\n\tpublic static int size(){\n\t\treturn salas;\n\t}\n\n\tpublic static int maxSize(){\n\t\treturn divisions.length();\n\t}\n\n\tpublic static Room room(int index){\n\t\tif (index < 0 || index >= size()) {\n\t\t\treturn divisions[salas];\n\t\t} else {\n\t\t\treturn divisions[index];\n\t\t}\n\t}\n\n\tpublic static double area(){\n\n\t\tdouble areaTotal = 0;\n\t\tint nSalas = size();\n\n\t\tfor (int i = 0; i <= nSalas; i++) {\n\t\t\tareaTotal += divisions[i].area();\n\t\t}\n\t}\n\n\tpublic static RoomTypeCount[] getRoomTypeCounts() {\n\n\t\tRoomTypeCount[] contagem = new RoomTypeCount[size()];\n\n\t\t\n\n\t\tRoomTypeCount[] var1 = new RoomTypeCount[this.size];\n        int var2 = 0;\n\n        for(int var3 = 0; var3 < this.size; ++var3) {\n            int var4 = -1;\n\n            for(int var5 = 0; var5 < var2; ++var5) {\n                if(this.rooms[var3].roomType().equals(var1[var5].roomType)) {\n                    var4 = var5;\n                }\n            }\n\n            if(var4 == -1) {\n                var1[var2] = new RoomTypeCount();\n                var1[var2].roomType = this.rooms[var3].roomType();\n                var1[var2].count = 1;\n                ++var2;\n            } else {\n                ++var1[var4].count;\n            }\n        }\n\n        RoomTypeCount[] var6 = new RoomTypeCount[var2];\n        System.arraycopy(var1, 0, var6, 0, var2);\n        return var6;\n\t}\n}",
+			"Tarefa",
+			"Notas",
+			"Tarefa",
+			"monedas",
+			"aApagar",
+			"moeads",
+			"ano1",
+			"mes1",
+			"\"))\n",
+			"pipz",
+			"int",
+			"PrintWritter",
+			"'"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "JogoDoGalo.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
