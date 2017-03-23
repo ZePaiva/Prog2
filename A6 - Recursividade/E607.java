@@ -34,10 +34,9 @@ public class E607 {
 		}
 
 		listDirectoryName(fix, args);
-		//listDirectoryInd(fix, args);
+		//listDirectoryInd(fix, args[1]);
 	}
 
-	//não funciona e ninguém sabe porquê
 	public static void listDirectoryName(File ficheiro, String[] pattern) {
 		assert ficheiro != null;
 
@@ -45,7 +44,7 @@ public class E607 {
 
 		for(int i = 0; i < filesInDir.length; i++) {
 			
-			if (filesInDir[i].getName() == (pattern[0] + pattern[1])) {
+			if ((filesInDir[i].getName()).equals(pattern[1])) {
 				String direito = "";
 				String dirParent = filesInDir[i].getParent();
 				if(dirParent != null && !dirParent.equals("..")) {
@@ -55,7 +54,7 @@ public class E607 {
 				direito = direito + filesInDir[i].getName();
 				System.out.printf("%-19s\n", new Object[]{direito});
 
-				if(filesInDir[i].isDirectory() && filesInDir[i].getName() == pattern[1]) {
+				if(filesInDir[i].isDirectory()) {
 					listDirectoryName(filesInDir[i], pattern);
 				}	
 			}
